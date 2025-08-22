@@ -12,9 +12,9 @@
 	},
 	"vars": {
         "PANEL_URLS": [
+            "https://go.aral.swdrana.com",
             "https://go.aral.taskirsview.com",
             "https://go.aral.bdstudyworld.com",
-            "https://go.aral.swdrana.com"
         ]
     }
 	/**
