@@ -12,7 +12,7 @@
 	},
 	"vars": {
         "PANEL_URLS": [
-            "https://aral.taskirsview.com",
+            // "https://aral.taskirsview.com",
             "https://go.aral.taskirsview.com",
             "https://aral.stairtouch.com",
             "https://aral.bdstudyworld.com",
