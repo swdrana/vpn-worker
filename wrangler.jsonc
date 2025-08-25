@@ -13,6 +13,7 @@
 	"vars": {
         "PANEL_URLS": [
             // "https://aral.taskirsview.com",
+            "https://panel.sheraorganic.com", //proxied link
             "https://go.aral.taskirsview.com",
             "https://aral.stairtouch.com",
             "https://aral.bdstudyworld.com",
